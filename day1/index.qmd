@@ -1,0 +1,335 @@
+---
+format:
+  revealjs:
+    incremental: false
+    css: ../styles.css
+execute: 
+  echo: true
+---
+
+# Day 1: Introduction to "Biodiversity and Japan"
+
+## Instructor: Joel Nitta
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Research topic 1: Ecology and evolution of **ferns**
+
+- Research topic 2: Development of software for **data science**
+  - [Reproducible data analysis](https://syllabus.gs.chiba-u.jp/2024/101101101076000/Z011531301/en_US), Thursdays 3rd period
+
+- <https://www.joelnitta.com>
+:::
+
+::: {.column width="50%"}
+![](https://github.com/joelnitta/joelnitta-site/blob/master/static/media/headers/research_img2.jpg?raw=true){fig-alt="Image of Joel Nitta in field" height="450"}
+:::
+
+::::
+
+## Instructor: Joel Nitta
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Born and raised in California
+
+- Fourth generation Japanese-American
+
+- First came to Japan as high school exchange student
+:::
+
+::: {.column width="50%"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/California_in_United_States.svg/2880px-California_in_United_States.svg.png){fig-alt="Image of California map" width="100%" height="100%"}
+:::
+
+::::
+
+## What is biodiversity?
+
+- **The different kinds of life that occur on our planet**
+
+. . .
+
+- Often we talk about the **number of species**, but it has other definitions too
+
+## Why does biodiversity matter?
+
+:::: {.columns}
+
+::: {.column width="30%"}
+1. How would you feel if you could **never visit a natural place** like a forest or the mountains?
+:::
+
+::: {.column width="70%"}
+![](https://images.unsplash.com/photo-1605714726527-411541ab17f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3JlZW4lMjBmb3Jlc3R8ZW58MHx8MHx8fDA%3D&w=1000&q=80){fig-alt="Image of a forest" width="100%" height="100%"}
+
+::: {.small}
+https://images.unsplash.com/
+:::
+
+:::
+
+::::
+
+## Why does biodiversity matter?
+
+:::: {.columns}
+
+::: {.column width="30%"}
+2. How would you feel if you knew that a **place like the Great Barrier Reef were to disappear**?
+:::
+
+::: {.column width="70%"}
+![](https://www.nma.gov.au/__data/assets/image/0003/629472/MA47350944-Coral-Outcrop-1200w.jpg){fig-alt="Image of Great Barrier Reef" width="100%" height="100%"}
+
+::: {.small}
+https://www.nma.gov.au/
+:::
+
+:::
+
+::::
+
+## Biodiversity has inherent value
+
+- Biodiversity has **inherent value**: it is worth something **just by existing**
+
+- Biodiversity has **cultural value**: we derive **inspiration** from it
+
+## Why does biodiversity matter?
+
+:::: {.columns}
+
+::: {.column width="30%"}
+1. How would you feel if you **couldn't eat any fruit** because there were no bees to pollinate flowers?
+:::
+
+::: {.column width="70%"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Apis_mellifera_-_Prunus_padus_-_Keila.jpg/600px-Apis_mellifera_-_Prunus_padus_-_Keila.jpg){fig-alt="Image of bee pollinating flower" width="100%" height="100%"}
+
+::: {.small}
+https://upload.wikimedia.org/
+:::
+
+:::
+
+::::
+
+## Humans depend on biodiversity
+
+:::: {.columns}
+
+::: {.column width="30%"}
+2. How would you feel if you **didn't have access to clean drinking water** because there were no wetlands to help filter it?
+:::
+
+::: {.column width="70%"}
+![](https://upload.wikimedia.org/wikipedia/commons/8/88/Tourbi%C3%A8re_03_-_Parc_de_Frontenac_-_Juillet_2008.jpg){fig-alt="Image of wetland" width="100%" height="100%"}
+
+::: {.small}
+https://upload.wikimedia.org/
+:::
+
+:::
+
+::::
+
+## Why does biodiversity matter?
+
+- Biodiversity provides **ecosystem services**: humans benefit from the natural environment
+
+## Biodiversity is **in danger**
+
+We will learn about the **specific risks** posed to biodiversity, and **actionable measures** to counteract them.
+
+::: {.columns}
+::: {.column}
+::: {.incremental}
+
+- Climate change
+- Population growth
+- Invasive species
+
+:::
+:::
+::: {.column}
+![](https://s3.eu-west-2.amazonaws.com/iema.net/transform/_1440x1040_crop_center-center_80_none/90278/web_climatechange_shutterstock_396593335.webp)
+
+::: {.small}
+https://www.iema.net/articles/climate-change-to-pose-bigger-threat-to-biodiversity-than-land-use-by-2070/
+:::
+
+:::
+:::
+
+## Outline: Day 1
+
+- Global distribution of biodiversity
+- Levels of biodiversity
+- Threats to biodiversity
+- Protecting biodiversity
+- Quiz
+
+## Outline Day 2
+
+- Introduction to iNaturalist
+- Survey of Chiba University biodiversity
+- Analysis of survey results
+- Quiz
+
+## What is biodiversity?
+
+- **The different kinds of life that occur on our planet**
+
+To understand biodiversity, we need to **document** it (describe where it occurs)
+
+## How can we count (quantify) life?
+
+## Species richness
+
+![](../images/richness.png)
+
+The **number of species** 種数
+
+## Population size (abundance)
+
+![](../images/abundance.png)
+
+The **number of individuals** belonging to a species 個体数
+
+## Biomass
+
+![](../images/biomass.png)
+
+The **total mass** of organisms 生物量
+
+## Counting life
+
+- Richness: The number of species 種数
+
+- Population size (abundance): The number of individuals belonging to a species 個体数
+
+- Biomass: The total mass of organisms 生物量
+
+## Activity: Which is more diverse?
+
+![](../images/shannon.png){}
+
+## Activity: Which is more diverse?
+
+::: {.columns}
+::: {.column width="40%"}
+- Enter room name `JABIOD2024` at <https://gosocrative.com> **or** scan the barcode
+:::
+::: {.column width="60%"}
+![](../images/socrative_qr.png){fig-alt="QR code linking to Socrative room for JABIOD2024"}
+:::
+:::
+
+## Species richness is often used, but is not the only way to measure biodiversity
+
+There is no single definition of diversity.
+
+How you measure it depends on your goal and the data available
+
+## Species richness is unevenly distributed
+
+Some areas have **many** species, others have **few**.
+
+## Latitudinal species gradient
+
+The number of species **increases** going **from the poles to the equator**
+
+- latitude = 緯度
+- equator = 赤道
+
+## Latitudinal species gradient
+
+![](../images/tundra-rainforest.png){fig-alt="Images of tundra and rainforest, showing location on globe"}
+
+::: {.medsmall}
+https://en.wikipedia.org/, https://www.worldatlas.com
+:::
+
+## Latitudinal species gradient
+
+![Mammal richness 哺乳類の種数](../images/gradient-schipper-2008.png){fig-alt="Figure 1A of Schipper et al 2008, showing richness of mammals"}
+
+::: {.medsmall}
+Schipper et al. 2008, *Science* 225--230
+:::
+
+## There are many factors that determine richness
+
+- Climate 気候
+- Biotic interactions 生物間相互作用
+- Evolution 進化
+- Humans
+
+These affect ranges of individual species, **and** species richness
+
+---
+
+![](../images/range_moose.png){}
+
+---
+
+![](../images/range_bird.png){}
+
+---
+
+![](../images/range_combined.png){}
+
+## Climate
+
+![](../images/temperature_range.png){}
+
+## Climate
+
+![](../images/japan_ferns_richness.png){}
+
+## Biotic interactions
+
+![](../images/factors_biotic.png){}
+
+## Evolution
+
+![](../images/urchin_tree.png){}
+
+## Evolution
+
+![](../images/urchin-tree-chance.png){}
+
+## Evolution
+
+![](../images/lomaridium_biogeo.png){}
+
+::: {.medsmall}
+Vicent et al. _Taxon_ 66, 2017
+:::
+
+## Hotspots are areas of exceptionally high richness
+
+Hotspots have high richness **and** are in danger: these are the areas that we should focus on conserving
+
+- 種の数が極めて多い
+- すでにダメージを受けている
+
+## 35 Global Biodiversity Hotspots
+
+![](https://www.e-education.psu.edu/geog30/sites/www.e-education.psu.edu.geog30/files/Biodiversity_Hotspots_Map.jpg){fig-alt="Map of global biodiversity hotspots"}
+
+## Activity: How do you experience biodiversity?
+
+In your group, discuss:
+
+- Where do you see/experience areas of **high** biodiversity?
+
+- Where do you see/experience areas of **low** biodiversity?
+
+- **Why** do you think there is a difference?
+
+One person per group answer on Socrative
