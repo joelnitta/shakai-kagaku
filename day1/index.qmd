@@ -7,9 +7,9 @@ execute:
   echo: true
 ---
 
-# Day 1: Introduction to "Biodiversity and Japan"
+# 生物多様性について
 
-## Instructor: Joel Nitta
+## 自己紹介
 
 :::: {.columns}
 
@@ -47,15 +47,16 @@ execute:
 
 ::::
 
-## What is biodiversity?
+## 生物多様性とは？
 
-- **The different kinds of life that occur on our planet**
+- **生きものたちの豊かな個性とつながりのこと**
+  - （環境省、<https://www.biodic.go.jp/biodiversity/about/about.html>）
 
 . . .
 
 - Often we talk about the **number of species**, but it has other definitions too
 
-## Why does biodiversity matter?
+## なぜ生物多様性を大事にしないといけない？
 
 :::: {.columns}
 
@@ -74,7 +75,7 @@ https://images.unsplash.com/
 
 ::::
 
-## Why does biodiversity matter?
+## なぜ生物多様性を大事にしないといけない？
 
 :::: {.columns}
 
@@ -93,13 +94,13 @@ https://www.nma.gov.au/
 
 ::::
 
-## Biodiversity has inherent value
+## 生物多様性には潜在的な価値がある
 
 - Biodiversity has **inherent value**: it is worth something **just by existing**
 
 - Biodiversity has **cultural value**: we derive **inspiration** from it
 
-## Why does biodiversity matter?
+## なぜ生物多様性を大事にしないといけない？
 
 :::: {.columns}
 
@@ -137,7 +138,7 @@ https://upload.wikimedia.org/
 
 ::::
 
-## Why does biodiversity matter?
+## なぜ生物多様性を大事にしないといけない？
 
 - Biodiversity provides **ecosystem services**: humans benefit from the natural environment
 
@@ -165,7 +166,7 @@ https://www.iema.net/articles/climate-change-to-pose-bigger-threat-to-biodiversi
 :::
 :::
 
-## Outline: Day 1
+## アウトライン（11月8日）
 
 - Global distribution of biodiversity
 - Levels of biodiversity
@@ -173,12 +174,16 @@ https://www.iema.net/articles/climate-change-to-pose-bigger-threat-to-biodiversi
 - Protecting biodiversity
 - Quiz
 
-## Outline Day 2
+## アウトライン（11月15日）
 
 - Introduction to iNaturalist
 - Survey of Chiba University biodiversity
 - Analysis of survey results
 - Quiz
+
+## 生物多様性はどのように分布しているのか？
+
+- [How Biodiversity is Distributed Globally](https://www.calacademy.org/explore-science/how-biodiversity-is-distributed-globally)
 
 ## What is biodiversity?
 
@@ -234,6 +239,10 @@ The **total mass** of organisms 生物量
 There is no single definition of diversity.
 
 How you measure it depends on your goal and the data available
+
+## なぜ生物多様性には偏りがあるのか？
+
+![Why Biodiversity is Distributed Unevenly](https://www.calacademy.org/explore-science/why-biodiversity-is-distributed-unevenly)
 
 ## Species richness is unevenly distributed
 
@@ -310,6 +319,10 @@ These affect ranges of individual species, **and** species richness
 ::: {.medsmall}
 Vicent et al. _Taxon_ 66, 2017
 :::
+
+## 生物多様性ホットスポットとは？
+
+- [What is a Biodiversity Hotspot?](https://www.calacademy.org/explore-science/what-is-a-biodiversity-hotspot)
 
 ## Hotspots are areas of exceptionally high richness
 
