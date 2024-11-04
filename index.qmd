@@ -1,7 +1,6 @@
 ---
-title: "."
+title: "社会と科学技術の界面"
 ---
 
-This is a Quarto website.
+- [生物多様性について](day1/index.qmd)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
