@@ -1,0 +1,71 @@
+---
+format:
+  revealjs:
+    incremental: false
+    css: ../styles.css
+execute: 
+  echo: true
+title: 生物多様性調査実習
+subtitle:  社会と科学技術の界面 第13~14回
+---
+
+# iNaturalistの使い方
+
+## GoogleMapsの映像
+
+[How iNaturalist captures millions of biodiversity observations via Google Maps Platform](https://www.youtube.com/watch?v=ZMe5-mny9PM)
+
+# 大学校内の調査
+
+## グループ分け
+
+- キャンパスを二つに分けて調査を行う
+  - 紅組：並木通り以西
+  - 白組：並木通り以東
+
+- 紅組、白組それぞれの中に3~4人ずつ班を作る
+
+- 班と一緒に調査を行う
+  - それぞれの組の中で班の仕分けを決めてください
+  - 同じ生物を２回記録することを防ぐため
+  - 探す効率を上げるため
+
+---
+
+<iframe 
+    src="https://www.google.com/maps/d/embed?mid=1RJivPVeTcYSLOhy4uqAFUEDPvSjpdsI&hl=en&ehbc=2E312F" 
+    style="width: 100vw; height: 100vh; border: 0;" 
+    allowfullscreen>
+</iframe>
+
+## 千葉大学西キャンパスの現状
+
+<https://www.inaturalist.org/observations?place_id=209168&subview=map>
+
+- 114 観察
+- 64 種
+- 32人 観察者
+
+## 調査の対象
+
+- 目に見える生物なんでも！
+
+## 成績評価
+
+- iNaturalistの記録
+  - 多ければ多いほどいい**わけでない**
+  - 質の良い観察を記録してください
+    - 写真がちゃんと写っている
+    - GPSデータが大きくずれていない
+
+- 調査結果の解析
+  - Socrativeを用いて質問に答える
+
+## スケジュール
+
+- 12:50 ~ 13:10: 室内の説明
+- 13:10 ~ 13:30: 野外の説明
+- 13:30 ~ 14:20: 野外調査
+- 14:20 ~ 14:30: 休憩
+- 14:30 ~ 15:30: 野外調査
+- 15:30 ~ 16:00: 調査結果の解析（室内）
