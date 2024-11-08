@@ -186,7 +186,7 @@ https://www.nma.gov.au/
 
 ## 生物多様性には潜在的な価値がある
 
-- **存在するだけで価値**がある。
+- **存在するだけで価値**があります。
   - 私たちはそれから**インスピレーション**を得ています。
 
 ## なぜ生物多様性を大事にしないといけない？
@@ -231,7 +231,7 @@ https://upload.wikimedia.org/
 
 ## 人間は生物多様性に依存している
 
-- 生物多様性は**生態系サービス**を提供しています：人間は自然環境から恩恵を受けています
+- 生物多様性は**生態系サービス**を提供しています：人間は自然環境から恩恵を受けています。
 
 ## 生物多様性は**危機に瀕している**
 
@@ -256,11 +256,24 @@ https://www.iema.net/articles/climate-change-to-pose-bigger-threat-to-biodiversi
 :::
 :::
 
+## 生物多様性入門のビデオ
+
+![](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a5/2e/e1/california-academy-of.jpg?w=1100&h=600&s=1)
+
+- カリフォルニア科学アカデミー（[California Academy of Sciences](https://www.calacademy.org)）が提供している[シリーズ](https://www.calacademy.org/biodiversity-course)
+
+---
+
+<iframe 
+    src="https://www.youtube.com/embed/HpDJBFflYKI?si=ybobjCni1bVV9zXm&cc_load_policy=1&cc_lang_pref=ja"
+    style="width: 100vw; height: 100vh; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+</iframe>
+
 ## 生物多様性はどのように分布しているのか？
 
-![](../images/calacad-biodiv-global.png)
-
-- [映像： How biodiversity is distributed globally](https://www.calacademy.org/explore-science/how-biodiversity-is-distributed-globally)
+- [動画： How biodiversity is distributed globally](https://www.calacademy.org/explore-science/how-biodiversity-is-distributed-globally)
 ---
 
 <iframe 
@@ -274,7 +287,7 @@ https://www.iema.net/articles/climate-change-to-pose-bigger-threat-to-biodiversi
 
 - 生物多様性を理解するためには、それを**記録**する必要があります（どこに何が存在しているのかを記述する）。
 
-- 定量化の方法は**複数**あります
+- 定量化の方法は**複数**あります。
 
 ## 種数
 
@@ -320,9 +333,7 @@ https://www.iema.net/articles/climate-change-to-pose-bigger-threat-to-biodiversi
 
 ## なぜ生物多様性には偏りがあるのか？
 
-![](../images/calacad-biodiv-uneven.png)
-
-- [映像： Why Biodiversity is Distributed Unevenly](https://www.calacademy.org/explore-science/why-biodiversity-is-distributed-unevenly)
+- [動画： Why Biodiversity is Distributed Unevenly](https://www.calacademy.org/explore-science/why-biodiversity-is-distributed-unevenly)
 
 ---
 
@@ -341,7 +352,7 @@ https://www.iema.net/articles/climate-change-to-pose-bigger-threat-to-biodiversi
 
 - 種の数は、**極地から赤道に向かうにつれて増加**します。
 
-- 英語で「latitudinal species gradient」と言います
+- 英語で「latitudinal species gradient」と言います。
 
 ---
 
@@ -444,11 +455,26 @@ Vicent et al. _Taxon_ 66, 2017
 
 ::::
 
+## 生物多様性のフィールド調査
+
+- [動画： Field Methods for Documenting Biodiversity](https://www.calacademy.org/explore-science/field-methods-for-documenting-biodiversity)
+
+---
+
+<iframe 
+    src="https://www.youtube.com/embed/cdxMX-gajac?si=hla23QO_4qNKbSWU?si=furVQ_it1vVgibDX&cc_load_policy=1&cc_lang_pref=ja"
+    style="width: 100vw; height: 100vh; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+</iframe>
+
+## 西表島の植物調査
+
+（授業中に別のスライドを使用）
+
 ## 生物多様性ホットスポットとは？
 
-![](../images/calacad-biodiv-hotspot.png)
-
-- [映像： What is a Biodiversity Hotspot?](https://www.calacademy.org/explore-science/what-is-a-biodiversity-hotspot)
+- [動画： What is a Biodiversity Hotspot?](https://www.calacademy.org/explore-science/what-is-a-biodiversity-hotspot)
 
 ---
 
@@ -461,7 +487,7 @@ Vicent et al. _Taxon_ 66, 2017
 
 ## ホットスポットは極めて高い種の豊富さを持つ地域です
 
-ホットスポットには高い種の豊富さがあり、**危機にさらされています**：これらは私たちが保護に注力すべき地域です
+ホットスポットには高い種の豊富さがあり、**危機にさらされています**：これらは私たちが保護に注力すべき地域です。
 
 - 種の数が極めて多い
   - 具体的には、**植物の固有種の数**
@@ -530,11 +556,11 @@ Vicent et al. _Taxon_ 66, 2017
 
 ## アカウントの作成
 
-- ユーザー名は任意です（匿名でオッケー）
-- 三つのオプションを全て**オン**にしてください
-  - 「私の観察データを科学研究用に提供することに同意します」は任意ですが、有効にしないとアプリを使う意味がありません
-  - 他の二つを有効にしないとアプリが使えません
-- アカウントができたら、グーグルフォームを使ってiNaturalistのユーザー名を提出してください（評価に必要です）
+- ユーザー名は任意です（匿名でオッケー）。
+- 三つのオプションを全て**オン**にしてください。
+  - 「私の観察データを科学研究用に提供することに同意します」は任意ですが、有効にしないとアプリを使う意味がありません。
+  - 他の二つを有効にしないとアプリが使えません。
+- アカウントができたら、グーグルフォームを使ってiNaturalistのユーザー名を提出してください（評価に必要です）。
 
 ---
 
