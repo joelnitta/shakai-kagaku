@@ -1,8 +1,5 @@
 ---
-format:
-  revealjs:
-    incremental: false
-    css: ../styles.css
+format: pptx
 execute: 
   echo: true
 title: 生物多様性調査実習
@@ -503,3 +500,7 @@ subtitle:  社会と科学技術の界面 第13~14回
 - 最も多い外来種はどれでしょうか？何回観察されましたか？
 
 - 観察記録が最も多い場所は西千葉キャンパスのどのあたりでしょうか？なぜだと思いますか？
+
+# iNaturalistウエブサイトの使い方
+
+## 
