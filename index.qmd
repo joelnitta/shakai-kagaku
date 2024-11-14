@@ -2,5 +2,6 @@
 title: "社会と科学技術の界面"
 ---
 
-- [生物多様性について](day1/index.qmd)
+- [生物多様性入門](day1/index.qmd)
 
+- [生物多様性調査実習](day2/index.qmd)
