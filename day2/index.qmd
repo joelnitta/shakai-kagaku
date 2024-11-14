@@ -1,5 +1,8 @@
 ---
-format: pptx
+format:
+  revealjs:
+    incremental: false
+    css: ../styles.css
 execute: 
   echo: true
 title: 生物多様性調査実習
@@ -13,7 +16,9 @@ subtitle:  社会と科学技術の界面 第13~14回
 - 13:30 ~ 14:20: 野外調査
 - 14:20 ~ 14:30: 休憩
 - 14:30 ~ 15:15: 野外調査
-- 15:15 ~ 16:00: 調査結果の解析（室内）
+- **15:15** ~ 16:00: 調査結果の解析（室内）
+
+（変更の場合があります）
 
 # iNaturalistの使い方
 
@@ -440,7 +445,7 @@ subtitle:  社会と科学技術の界面 第13~14回
 
 ## グループ分け
 
-- 紅組、白組それぞれの中に3~4人ずつ班を作る
+- 紅組、白組それぞれの中に3人ずつ班を作る
 
 - 班と一緒に調査を行う
   - それぞれの組の中で班の仕分けを決めてください
@@ -467,19 +472,43 @@ subtitle:  社会と科学技術の界面 第13~14回
 
 - 目に見える生物なんでも！
 
+## 調査の対象 {.smaller}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+- Birds (鳥類)
+- Amphibians (両生類)
+- Reptiles (爬虫類)
+- Mammals (哺乳類)
+- Fishes (魚類)
+- Molluscs (軟体動物)
+- Arachnids (蛛形類)
+- Insects (昆虫類)
+- Plants (植物)
+- Fungi (菌類)
+- Protozoans (原生動物)
+:::
+
+::: {.column width="60%"}
+![](../images/inat-obs-categories.png)
+:::
+
+::::
+
 ## 成績評価
 
-- iNaturalistの記録
+- iNaturalistの観察記録
   - 多ければ多いほどいい**わけでない**
   - 質の良い観察を記録してください
     - 写真がちゃんと写っている
     - GPSデータが大きくずれていない
     - なるべく種まで
 
-- 調査結果のアンケート
+- 調査結果のアンケート（授業中に実施する）
   - Google Formsを使用する
 
-## 課題 {.smaller}
+## アンケートの内容 {.smaller}
 
 - 千葉大学西キャンパス全体の種数は？（全期間）
 
@@ -491,11 +520,11 @@ subtitle:  社会と科学技術の界面 第13~14回
 
 - 合わせて最も記録数の多い種は？（全期間）
 
-- どのグループに種が最も多く観察されました？
+- どのグループに種が最も多く観察されましたか？
 
 - なぜそのグループが多かったと思いますか？
 
-- 今回の調査で最も綺麗に撮れた写真はどれでしょうか？写真のリンクを貼ってください。
+- 今回の調査で最もきれいに撮れた写真はどれでしょうか？写真のリンクを貼ってください。
 
 - 最も多い外来種はどれでしょうか？何回観察されましたか？
 
@@ -503,4 +532,51 @@ subtitle:  社会と科学技術の界面 第13~14回
 
 # iNaturalistウエブサイトの使い方
 
-## 
+---
+
+### `www.inaturalist.org`を開く
+
+![](../images/inat-website-top.png)
+
+---
+
+### 「Observations」（観察記録）をクリック
+
+![](../images/inat-website-top-click-observations.png)
+
+---
+
+### 「Observations」（観察記録）をクリック
+
+![](../images/inat-website-observations.png)
+
+---
+
+### 「Filters」（検索条件）をクリック
+
+![](../images/inat-website-observations-filters-click.png)
+
+---
+
+### 「Filters」（検索条件）をクリック
+
+![](../images/inat-website-filters.png)
+
+---
+
+### 検索条件を決める：千葉大学に絞る
+
+- 「Show」はデフォルトで`Your Observations`（あなたの観察記録）だけになっているので、外す
+- 「Place」に`Chiba University Nishi-Chiba Campus, CH, JP`を入力
+  - 「Chiba」を打ち始めると出てくるので、選択する
+
+---
+
+### 他の条件
+
+以下の条件を付けることによって、アンケートに答えてください
+
+- 「Place」を`Chiba University Nishi-Chiba Campus East Half, CH, JP`にすると東の方だけに絞る
+  - `West Half`にすると西の方だけに絞る
+- 「Date Observed」→「Exact Date」→ `2024-11-15`を入力すると**今日の調査**に絞る
+- 「Show」→「Introduced」を入れると、**外来種**に絞る
