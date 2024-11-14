@@ -378,6 +378,13 @@
     "text": "iNaturalist IDの登録\n\nこのグーグルフォームを使って登録してください：\n\nhttps://forms.gle/SnSYuAqgFKdgsGMt7\n\n成績評価に使うので必須です"
   },
   {
+    "objectID": "day2/index.html#スケジュール",
+    "href": "day2/index.html#スケジュール",
+    "title": "生物多様性調査実習",
+    "section": "スケジュール",
+    "text": "スケジュール\n\n12:50 ~ 13:10: 室内の説明\n13:10 ~ 13:30: 野外の説明\n13:30 ~ 14:20: 野外調査\n14:20 ~ 14:30: 休憩\n14:30 ~ 15:15: 野外調査\n15:15 ~ 16:00: 調査結果の解析（室内）\n\n（変更の場合があります）"
+  },
+  {
     "objectID": "day2/index.html#googlemapsの映像",
     "href": "day2/index.html#googlemapsの映像",
     "title": "生物多様性調査実習",
@@ -385,11 +392,39 @@
     "text": "GoogleMapsの映像\nHow iNaturalist captures millions of biodiversity observations via Google Maps Platform"
   },
   {
+    "objectID": "day2/index.html#inaturalistについて",
+    "href": "day2/index.html#inaturalistについて",
+    "title": "生物多様性調査実習",
+    "section": "iNaturalistについて",
+    "text": "iNaturalistについて\n\n\n\n市民科学用のアプリ\n簡単に野外で専門家ではない人が生物の記録ができる\n「リアルなポケモン」"
+  },
+  {
+    "objectID": "day2/index.html#inaturalistについて-1",
+    "href": "day2/index.html#inaturalistについて-1",
+    "title": "生物多様性調査実習",
+    "section": "iNaturalistについて",
+    "text": "iNaturalistについて\n\n\n\nアプリでは主にデータ収集をする\nウェブサイト（https://www.inaturalist.org/）では主にデータ（生物多様性）を探索・閲覧する"
+  },
+  {
+    "objectID": "day2/index.html#inaturalistアプリの使い方の流れ",
+    "href": "day2/index.html#inaturalistアプリの使い方の流れ",
+    "title": "生物多様性調査実習",
+    "section": "iNaturalistアプリの使い方の流れ",
+    "text": "iNaturalistアプリの使い方の流れ\n\n外で気になる生物を見つける\niNaturalistを開いて、「観察」→「カメラ」をタップ\n写真を撮る\n候補の種を選ぶ\nデータをアップロードする"
+  },
+  {
     "objectID": "day2/index.html#グループ分け",
     "href": "day2/index.html#グループ分け",
     "title": "生物多様性調査実習",
     "section": "グループ分け",
-    "text": "グループ分け\n\nキャンパスを二つに分けて調査を行う\n\n紅組：並木通り以西\n白組：並木通り以東\n\n紅組、白組それぞれの中に3~4人ずつ班を作る\n班と一緒に調査を行う\n\nそれぞれの組の中で班の仕分けを決めてください\n同じ生物を２回記録することを防ぐため\n探す効率を上げるため"
+    "text": "グループ分け\n\nキャンパスを二つに分けて調査を行う\n\n紅組：並木通り以西\n白組：並木通り以東"
+  },
+  {
+    "objectID": "day2/index.html#グループ分け-1",
+    "href": "day2/index.html#グループ分け-1",
+    "title": "生物多様性調査実習",
+    "section": "グループ分け",
+    "text": "グループ分け\n\n紅組、白組それぞれの中に3人ずつ班を作る\n班と一緒に調査を行う\n\nそれぞれの組の中で班の仕分けを決めてください\n同じ生物を２回記録することを防ぐため\n探す効率を上げるため"
   },
   {
     "objectID": "day2/index.html#千葉大学西キャンパスの現状",
@@ -406,24 +441,31 @@
     "text": "調査の対象\n\n目に見える生物なんでも！"
   },
   {
+    "objectID": "day2/index.html#調査の対象-1",
+    "href": "day2/index.html#調査の対象-1",
+    "title": "生物多様性調査実習",
+    "section": "調査の対象",
+    "text": "調査の対象\n\n\n\nBirds (鳥類)\nAmphibians (両生類)\nReptiles (爬虫類)\nMammals (哺乳類)\nFishes (魚類)\nMolluscs (軟体動物)\nArachnids (蛛形類)\nInsects (昆虫類)\nPlants (植物)\nFungi (菌類)\nProtozoans (原生動物)"
+  },
+  {
     "objectID": "day2/index.html#成績評価",
     "href": "day2/index.html#成績評価",
     "title": "生物多様性調査実習",
     "section": "成績評価",
-    "text": "成績評価\n\niNaturalistの記録\n\n多ければ多いほどいいわけでない\n質の良い観察を記録してください\n\n写真がちゃんと写っている\nGPSデータが大きくずれていない\n\n\n調査結果の解析\n\nSocrativeを用いて質問に答える"
+    "text": "成績評価\n\niNaturalistの観察記録\n\n多ければ多いほどいいわけでない\n質の良い観察を記録してください\n\n写真がちゃんと写っている\nGPSデータが大きくずれていない\nなるべく種まで\n\n\n調査結果の解析（授業中に実施する）\n\nGoogle Formsを使用する"
   },
   {
-    "objectID": "day2/index.html#スケジュール",
-    "href": "day2/index.html#スケジュール",
+    "objectID": "day2/index.html#調査結果の解析内容",
+    "href": "day2/index.html#調査結果の解析内容",
     "title": "生物多様性調査実習",
-    "section": "スケジュール",
-    "text": "スケジュール\n\n12:50 ~ 13:10: 室内の説明\n13:10 ~ 13:30: 野外の説明\n13:30 ~ 14:20: 野外調査\n14:20 ~ 14:30: 休憩\n14:30 ~ 15:30: 野外調査\n15:30 ~ 16:00: 調査結果の解析（室内）"
+    "section": "調査結果の解析内容",
+    "text": "調査結果の解析内容\n\n千葉大学西キャンパス全体の種数は？（全期間）\n今回の調査によって観察できた種数は？\n今回の調査によって観察できた西側の種数は？\n今回の調査によって観察できた東側の種数は？\n合わせて最も記録数の多い種は？（全期間）\nどのグループに種が最も多く観察されましたか？\nなぜそのグループが多かったと思いますか？\n今回の調査で最もきれいに撮れた写真はどれでしょうか？写真のリンクを貼ってください。\n最も多い外来種はどれでしょうか？何回観察されましたか？\n観察記録が最も多い場所は西千葉キャンパスのどのあたりでしょうか？なぜだと思いますか？"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "社会と科学技術の界面",
     "section": "",
-    "text": "生物多様性について"
+    "text": "生物多様性入門\n生物多様性調査実習"
   }
 ]
