@@ -613,6 +613,42 @@ subtitle:  社会と科学技術の界面 第13~14回
 
 ![](../images/inat-website-filters-others-annotated.png)
 
+---
+
+### 写真の選び方
+
+- 表示を「Grid」に変える
+
+![](../images/inat-website-observations-view.png)
+
+---
+
+- 記録を選択する
+
+![](../images/inat-website-observations-view-select.png)
+
+---
+
+![](../images/inat-website-observation-rec.png)
+
+---
+
+- 写真の「i」をクリック
+
+![](../images/inat-website-observation-rec-info.png)
+
+---
+
+- 写真のURLをコピー
+
+![](../images/inat-website-photo.png)
+
+---
+
+- 写真のURLをコピー
+
+![](../images/inat-website-photo-url.png)
+
 ## 調査結果の解析
 
 - iNaturalistウェブサイトを使いながら、**授業中に**質問に答えてください
