@@ -480,8 +480,8 @@ subtitle:  社会と科学技術の界面 第13~14回
 
 <https://www.inaturalist.org/observations?place_id=209168&subview=map>
 
-- 114 観察
-- 64 種
+- 146 観察
+- 92 種
 - 32人 観察者
 
 ## 調査の対象
@@ -536,7 +536,7 @@ subtitle:  社会と科学技術の界面 第13~14回
 
 - 合わせて最も記録数の多い種は？（全期間）
 
-- どのカテゴリーに種が最も多く観察されましたか？
+- 種が最も多く観察されたカテゴリーはどれでしょうか？
 
 - なぜそのカテゴリーが多かったと思いますか？
 
@@ -580,11 +580,23 @@ subtitle:  社会と科学技術の界面 第13~14回
 
 ---
 
+### 「More Filters」（細かい検索条件）を<br>クリック
+
+![](../images/inat-website-filters-more-filters-click.png)
+
+---
+
 ### 検索条件を決める：千葉大学に絞る
 
-- 「Show」はデフォルトで`Your Observations`（あなたの観察記録）だけになっているので、外す
 - 「Place」に`Chiba University Nishi-Chiba Campus, CH, JP`を入力
   - 「Chiba」を打ち始めると出てくるので、選択する
+
+- 「Show」は`Verifiable`（「確認可能」）を**入ったまま**にしてください
+  - 写真など裏付けのなる情報がない記録を使いたくない
+
+---
+
+![](../images/inat-website-filters-chiba-annotated.png)
 
 ---
 
@@ -596,3 +608,13 @@ subtitle:  社会と科学技術の界面 第13~14回
   - `West Half`にすると西の方だけに絞る
 - 「Date Observed」→「Exact Date」→ `2024-11-15`を入力すると**今日の調査**に絞る
 - 「Show」→「Introduced」を入れると、**外来種**に絞る
+
+---
+
+![](../images/inat-website-filters-others-annotated.png)
+
+## 調査結果の解析
+
+- iNaturalistウェブサイトを使いながら、**授業中に**質問に答えてください
+
+<https://forms.gle/HDPz8pZ5Ws3uSFyz7>
