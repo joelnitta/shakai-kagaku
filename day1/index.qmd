@@ -4,7 +4,7 @@ format:
     incremental: false
     css: ../styles.css
 execute: 
-  echo: true
+  echo: false
 title: 生物多様性入門
 subtitle:  社会と科学技術の界面 第11~12回
 ---
@@ -50,7 +50,7 @@ subtitle:  社会と科学技術の界面 第11~12回
 
 ::::
 
-## アウトライン（11月8日）
+## アウトライン（11月7日）
 
 - 生物多様性の定義と重要性
 - 生物多様性の分布
@@ -58,7 +58,7 @@ subtitle:  社会と科学技術の界面 第11~12回
 - クイズ
 - iNaturalistのインストール
 
-## アウトライン（11月15日）
+## アウトライン（11月14日）
 
 - iNaturalistの使い方
 - 千葉大学の生物多様性調査
@@ -70,25 +70,21 @@ subtitle:  社会と科学技術の界面 第11~12回
 
 ## クイズについて
 
-- クイズは11月8日の後半に実施します（10分）。
-
-- スマートフォンを使用して回答します。
+- クイズは11月7日の後半にMoodleで実施します（10分）。
 
 - クイズの際は授業中に取ったメモを使っていいですが、他の資料（ウエブサイトなど）は**使用禁止**です。
 
-- 本番の前に使い方を課題で練習します。
-
 ## 野外実習について
 
-- 11月15日は野外実習です。
-  - 雨の場合は補講日（11月23日）を使うので、**空けておいてください**（11月23日が雨の場合は室内で行います）。
+- 11月14日は野外実習です。
+  - 雨の場合は補講日（11月22日）を使うので、**空けておいてください**（11月22日が雨の場合は室内で行います）。
 
 - 大学校内の生物多様性調査を行います。
 
 ## 野外実習について
 
 - iNaturalistというアプリを使います。
-  - 事前にインストールしてください（11月8日の授業の最後に行います）。
+  - 事前にインストールしてください（11月7日の授業の最後に行います）。
   - 使い方は授業中に学習します。
 
 - この課題への参加を評価します。
@@ -108,7 +104,7 @@ subtitle:  社会と科学技術の界面 第11~12回
 :::
 
 ::: {.column width="50%"}
-![](../images/shaka2024_qrcode.png)
+![](../images/shaka2025_qrcode.png)
 :::
 
 ::::
@@ -139,7 +135,7 @@ subtitle:  社会と科学技術の界面 第11~12回
 :::
 
 ::: {.column width="50%"}
-![](../images/shaka2024_qrcode.png)
+![](../images/shaka2025_qrcode.png)
 :::
 
 ::::
@@ -309,11 +305,11 @@ https://www.iema.net/articles/climate-change-to-pose-bigger-threat-to-biodiversi
 
 ## 生命を数える
 
-- 種数：種の数 
+- **種数**：種の数 
 
-- 個体数：ある種に属する個体の数
+- **個体数**：ある種に属する個体の数
 
-- 生物量：生物の総質量
+- **生物量**：生物の総質量
 
 ## どちらの方が多様性が高い？
 
@@ -326,7 +322,7 @@ https://www.iema.net/articles/climate-change-to-pose-bigger-threat-to-biodiversi
 :::
 
 ::: {.column width="40%"}
-![](../images/shaka2024_qrcode.png)
+![](../images/shaka2025_qrcode.png)
 :::
 
 ::::
@@ -391,16 +387,12 @@ Schipper et al. 2008, *Science* 225--230
 
 ![](../images/range_combined.png){}
 
-## 気候
+## 標高
 
-![](../images/temperature_range.png){}
-
-## 気候
-
-![](../images/japan_ferns_richness.png){}
+![](../images/fern-el-grad.png){}
 
 ::: {.medsmall}
-Nitta et al. 2022, *Am. J. Bot.* 727--745
+Nitta et al. 2017, *Ecol. Mono.* 278--296
 :::
 
 ## 生物間相互作用
@@ -450,7 +442,7 @@ Vicent et al. _Taxon_ 66, 2017
 :::
 
 ::: {.column width="40%"}
-![](../images/shaka2024_qrcode.png)
+![](../images/shaka2025_qrcode.png)
 :::
 
 ::::
@@ -506,7 +498,7 @@ Vicent et al. _Taxon_ 66, 2017
 
 ::: {.columns}
 ::: {.column width="60%"}
-グループで話し合ってください：
+隣の方と話し合ってください：
 
 - **高い**生物多様性が見られる、または体験できる場所はどこですか？
 
@@ -515,7 +507,7 @@ Vicent et al. _Taxon_ 66, 2017
 - なぜ**違い**があると思いますか？
 :::
 ::: {.column width="40%"}
-![](../images/shaka2024_qrcode.png)
+![](../images/shaka2025_qrcode.png)
 :::
 :::
 
@@ -525,21 +517,28 @@ Vicent et al. _Taxon_ 66, 2017
 
 ## クイズ
 
-:::: {.columns}
-
-::: {.column width="50%"}
 - クイズの際は授業中に取ったメモを使っていいですが、他の資料（ウエブサイトなど）は**使用禁止**です。
-:::
-
-::: {.column width="50%"}
-![](../images/shaka2024_qrcode.png)
-:::
-
-::::
 
 # iNaturalist
 
 ## iNaturalistのインストール
+
+```{r}
+library(qrcode)
+qr_code("https://apps.apple.com/us/app/inaturalist/id6475737561") |>
+  generate_svg(
+    here::here("images/inat-mac-app-qr.svg"),
+    background = "transparent",
+    show = FALSE
+  )
+
+qr_code("https://play.google.com/store/apps/details?id=org.inaturalist.android") |>
+  generate_svg(
+    here::here("images/inat-google-app-qr.svg"),
+    background = "transparent",
+    show = FALSE
+  )
+```
 
 ::: {.columns}
 ::: {.column}
@@ -560,7 +559,6 @@ Vicent et al. _Taxon_ 66, 2017
 - 三つのオプションを全て**オン**にしてください。
   - 「私の観察データを科学研究用に提供することに同意します」は任意ですが、有効にしないとアプリを使う意味がありません。
   - 他の二つを有効にしないとアプリが使えません。
-- アカウントができたら、グーグルフォームを使ってiNaturalistのユーザー名を提出してください（評価に必要です）。
 
 ---
 
@@ -568,8 +566,8 @@ Vicent et al. _Taxon_ 66, 2017
 
 ## iNaturalist IDの登録
 
-- このグーグルフォームを使って登録してください：
+- iNaturalistのインストールが完成したら、MoodleでiNaturalist IDを登録してください：
 
-<https://forms.gle/SnSYuAqgFKdgsGMt7>
+<https://moodle.gs.chiba-u.jp/moodle/mod/assign/view.php?id=1472213>
 
-- **成績評価に使うので必須です**
+- 成績評価に使うので**必須です**
