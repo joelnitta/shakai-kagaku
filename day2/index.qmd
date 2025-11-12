@@ -76,7 +76,7 @@ subtitle:  社会と科学技術の界面 第13~14回
 ## iNaturalistアプリの使い方の流れ
 
 1. 外で気になる生物を見つける
-2. iNaturalistを開いて、「観察」→「カメラ」をタップ
+2. iNaturalistを開いて、「+」→「カメラ」をタップ
 3. 写真を撮る
 4. 候補の種を選ぶ
 5. データをアップロードする
@@ -87,15 +87,15 @@ subtitle:  社会と科学技術の界面 第13~14回
 
 ::: {.column width="50%"}
 - iNaturalistを開く
-- 「自分」：自分の今までの観察記録のリスト
-- 「観察」：新しい観察記録を追加する
+- 「Me」：自分の今までの観察記録のリスト
+- 「+」：新しい観察記録を追加する
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="40%"}
-![](../images/inat-screen-home.PNG){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.28.54_inat_top.png){height="600px"}
 :::
 
 ::::
@@ -105,14 +105,14 @@ subtitle:  社会と科学技術の界面 第13~14回
 :::: {.columns}
 
 ::: {.column width="50%"}
-- 「観察」→「カメラ」をタップ
+- 「+」をタップ
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="40%"}
-![](../images/inat-screen-home-tap-obs.png){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.28.54_inat_top copy.png){height="600px"}
 :::
 
 ::::
@@ -122,14 +122,14 @@ subtitle:  社会と科学技術の界面 第13~14回
 :::: {.columns}
 
 ::: {.column width="50%"}
-- 「観察」→「カメラ」をタップ
+- 「+」→「カメラ」をタップ
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="40%"}
-![](../images/IMG_5554.PNG){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.29.42_camera.png){height="600px"}
 :::
 
 ::::
@@ -138,14 +138,14 @@ subtitle:  社会と科学技術の界面 第13~14回
 :::: {.columns}
 
 ::: {.column width="50%"}
-- 「観察」→「カメラ」をタップ
+- 「+」→「カメラ」をタップ
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="40%"}
-![](../images/IMG_5554-tap-camera.png){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.29.42_camera copy.png){height="600px"}
 :::
 
 ::::
@@ -165,7 +165,7 @@ subtitle:  社会と科学技術の界面 第13~14回
 :::
 
 ::: {.column width="40%"}
-![](../images/IMG_5508.PNG){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.36.41_picture.png){height="600px"}
 :::
 
 ::::
@@ -175,14 +175,17 @@ subtitle:  社会と科学技術の界面 第13~14回
 :::: {.columns}
 
 ::: {.column width="50%"}
-- 種を選ぶ：「何をみましたか？」をタップ
+- 写真を撮る
+  - なるべく近く、はっきり
+  - 背景に違う生物（植物など）が入っているとアルゴリズムが混乱する
+  - 花などあるとなおいい（なくても大丈夫）
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="40%"}
-![](../images/IMG_5511.PNG){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.36.41_picture copy.png){height="600px"}
 :::
 
 ::::
@@ -192,14 +195,14 @@ subtitle:  社会と科学技術の界面 第13~14回
 :::: {.columns}
 
 ::: {.column width="50%"}
-- 種を選ぶ：「何をみましたか？」をタップ
+- 種を選ぶ：「ID with AI」をタップ
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="40%"}
-![](../images/IMG_5511_tap_what-did-you-see.png){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.36.59_ai.png){height="600px"}
 :::
 
 ::::
@@ -209,10 +212,25 @@ subtitle:  社会と科学技術の界面 第13~14回
 :::: {.columns}
 
 ::: {.column width="50%"}
-- 上に**確実に**同定ができた名前が出る
-  - 多くの場合、**属**など
-- 下に**上位の提案**が出る
-  - 多くの場合、この**種**が正しい（選択してもよい）
+- 種を選ぶ：「ID with AI」をタップ
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+![](../images/Screenshot 2025-11-12 at 10.36.59_ai copy.png){height="600px"}
+:::
+
+::::
+
+---
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- 最も確率の高い種が上に出る
+- 他に可能性のある種がしたに出る
 - 下の種を選ぶ前に、その種の情報をチェック
   - ![](../images/i_icon.png)をタップ
 :::
@@ -222,20 +240,19 @@ subtitle:  社会と科学技術の界面 第13~14回
 :::
 
 ::: {.column width="40%"}
-![](../images/IMG_5512.PNG){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.37.11_select.png){height="600px"}
 :::
 
 ::::
+
 
 ---
 
 :::: {.columns}
 
 ::: {.column width="50%"}
-- 上に**確実に**同定ができた名前が出る
-  - 多くの場合、**属**など
-- 下に**上位の提案**が出る
-  - 多くの場合、この**種**が正しい（選択してもよい）
+- 最も確率の高い種が上に出る
+- 他に可能性のある種がしたに出る
 - 下の種を選ぶ前に、その種の情報をチェック
   - ![](../images/i_icon.png)をタップ
 :::
@@ -245,7 +262,7 @@ subtitle:  社会と科学技術の界面 第13~14回
 :::
 
 ::: {.column width="40%"}
-![](../images/IMG_5512-tap-i.png){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.37.11_select copy.png){height="600px"}
 :::
 
 ::::
@@ -257,14 +274,14 @@ subtitle:  社会と科学技術の界面 第13~14回
 ::: {.column width="50%"}
 - 候補の種の写真と分布図が出る
 - 写真をよく見て、**目の前にある生物と同じかどうか**判断する
-- 「iNaturalist.orgの詳細情報」をタップすると、ブラウザーが開いて、よりより詳細な情報を確認できる
+  - 候補の種の写真は右・左スワイプできる
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="40%"}
-![](../images/IMG_5513.PNG){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.37.22_check.png){height="600px"}
 :::
 
 ::::
@@ -276,32 +293,14 @@ subtitle:  社会と科学技術の界面 第13~14回
 ::: {.column width="50%"}
 - 候補の種の写真と分布図が出る
 - 写真をよく見て、**目の前にある生物と同じかどうか**判断する
-- 「iNaturalist.orgの詳細情報」をタップすると、ブラウザーが開いて、よりより詳細な情報を確認できる
+  - 候補の種の写真は右・左スワイプできる
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="40%"}
-![](../images/IMG_5513-tap-inat-link.png){height="600px"}
-:::
-
-::::
-
-
----
-
-:::: {.columns}
-
-::: {.column width="50%"}
-- **種の確認ができたら**、「<種名>を選択」をタップ
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="40%"}
-![](../images/IMG_5513.PNG){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.37.39_map.png){height="600px"}
 :::
 
 ::::
@@ -311,14 +310,14 @@ subtitle:  社会と科学技術の界面 第13~14回
 :::: {.columns}
 
 ::: {.column width="50%"}
-- **種の確認ができたら**、「<種名>を選択」をタップ
+- **種の確認ができたら**、「Select this taxon」を<br>タップ
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="40%"}
-![](../images/IMG_5513-tap-species-id.png){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.37.22_check copy.png){height="600px"}
 :::
 
 ::::
@@ -328,14 +327,14 @@ subtitle:  社会と科学技術の界面 第13~14回
 :::: {.columns}
 
 ::: {.column width="50%"}
-- 「やっぱり違う」と思ったら、「戻る」をタップ
+- あるいは、「やっぱり違う」と思ったら、「<」をタップして、他の候補を見る
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="40%"}
-![](../images/IMG_5513.PNG){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.37.22_check copy 2.png){height="600px"}
 :::
 
 ::::
@@ -345,25 +344,7 @@ subtitle:  社会と科学技術の界面 第13~14回
 :::: {.columns}
 
 ::: {.column width="50%"}
-- 「やっぱり違う」と思ったら、「戻る」をタップ
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="40%"}
-![](../images/IMG_5513-tap-back.png){height="600px"}
-:::
-
-::::
-
----
-
-:::: {.columns}
-
-::: {.column width="50%"}
-- 戻ってから、より広い分類群（属など）を選択
-- 種まで同定できなくても**大丈夫！**
+- 種まで同定できなくても<br>**大丈夫！**
 - 種の同定にそこまで自信がなくても、**大丈夫！**
 :::
 
@@ -371,26 +352,7 @@ subtitle:  社会と科学技術の界面 第13~14回
 :::
 
 ::: {.column width="40%"}
-![](../images/IMG_5512.PNG){height="600px"}
-:::
-
-::::
-
----
-
-:::: {.columns}
-
-::: {.column width="50%"}
-- 戻ってから、より広い分類群（属など）を選択
-- 種まで同定できなくても**大丈夫！**
-- 種の同定にそこまで自信がなくても、**大丈夫！**
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="40%"}
-![](../images/IMG_5512-tap-genus.png){height="600px"}
+![](../images/Screenshot 2025-11-12 at 12.09.52.png){height="600px"}
 :::
 
 ::::
@@ -409,7 +371,7 @@ subtitle:  社会と科学技術の界面 第13~14回
 :::
 
 ::: {.column width="40%"}
-![](../images/IMG_5514.PNG){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.37.52_other-edits.png){height="600px"}
 :::
 
 ::::
@@ -421,14 +383,33 @@ subtitle:  社会と科学技術の界面 第13~14回
 ::: {.column width="50%"}
 - 他の選択は普通そのままで良い
 - 一つだけ気をつけてください：**「飼育・栽培」**
-  - 明らかに植えられた植物やペットなどの場合は「はい」にする
+  - 明らかに植えられた植物やペットなどの場合は「Captive/Cultivated」にする
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="40%"}
-![](../images/IMG_5514-tap-cultivated.png){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.37.52_other-edits copy.png){height="600px"}
+:::
+
+::::
+
+---
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- 他の選択は普通そのままで良い
+- 一つだけ気をつけてください：**「飼育・栽培」**
+  - 明らかに植えられた植物やペットなどの場合は「Captive/Cultivated」にする
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+![](../images/Screenshot 2025-11-12 at 10.41.46_cultivated copy.png){height="600px"}
 :::
 
 ::::
@@ -446,7 +427,7 @@ subtitle:  社会と科学技術の界面 第13~14回
 :::
 
 ::: {.column width="40%"}
-![](../images/IMG_5515.PNG){height="600px"}
+![](../images/Screenshot 2025-11-12 at 10.42.15_upload.png){height="600px"}
 :::
 
 ::::
@@ -461,11 +442,11 @@ subtitle:  社会と科学技術の界面 第13~14回
 
 ## グループ分け
 
-- 紅組、白組それぞれの中に3人ずつ班を作る
+- 紅組、白組それぞれの中に2-3人ずつ班を作る
 
 - 班と一緒に調査を行う
   - それぞれの組の中で班の仕分けを決めてください
-  - 同じ生物を２回記録することを防ぐため
+  - **同じ生物を２回記録することを防ぐため**
   - 探す効率を上げるため
 
 ---
@@ -479,6 +460,14 @@ subtitle:  社会と科学技術の界面 第13~14回
 ## 千葉大学西キャンパスの現状
 
 <https://www.inaturalist.org/observations?place_id=209168&subview=map>
+
+### 現在
+
+- 1,112 観察
+- 339 種
+- 82人 観察者
+
+### 2024年（授業を始めた前）
 
 - 146 観察
 - 92 種
@@ -591,7 +580,7 @@ subtitle:  社会と科学技術の界面 第13~14回
 - 「Place」に`Chiba University Nishi-Chiba Campus, CH, JP`を入力
   - 「Chiba」を打ち始めると出てくるので、選択する
 
-- 「Show」は`Verifiable`（「確認可能」）を**入ったまま**にしてください
+- 「Show」は`Verifiable`（「確認可能」）を**オン**にしてください
   - 写真など裏付けのなる情報がない記録を使いたくない
 
 ---
@@ -606,7 +595,7 @@ subtitle:  社会と科学技術の界面 第13~14回
 
 - 「Place」を`Chiba University Nishi-Chiba Campus East Half, CH, JP`にすると東の方だけに絞る
   - `West Half`にすると西の方だけに絞る
-- 「Date Observed」→「Exact Date」→ `2024-11-15`を入力すると**今日の調査**に絞る
+- 「Date Observed」→「Exact Date」→ `2025-11-14`を入力すると**今日の調査**に絞る
 - 「Show」→「Introduced」を入れると、**外来種**に絞る
 
 ---
@@ -653,4 +642,4 @@ subtitle:  社会と科学技術の界面 第13~14回
 
 - iNaturalistウェブサイトを使いながら、**授業中に**質問に答えてください
 
-<https://forms.gle/HDPz8pZ5Ws3uSFyz7>
+<https://forms.gle/KdUv7zfWwtBGgMdn7>
