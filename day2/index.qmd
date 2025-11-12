@@ -230,7 +230,7 @@ subtitle:  社会と科学技術の界面 第13~14回
 
 ::: {.column width="50%"}
 - 最も確率の高い種が上に出る
-- 他に可能性のある種がしたに出る
+- 他に可能性のある種が下に出る
 - 下の種を選ぶ前に、その種の情報をチェック
   - ![](../images/i_icon.png)をタップ
 :::
@@ -252,7 +252,7 @@ subtitle:  社会と科学技術の界面 第13~14回
 
 ::: {.column width="50%"}
 - 最も確率の高い種が上に出る
-- 他に可能性のある種がしたに出る
+- 他に可能性のある種が下に出る
 - 下の種を選ぶ前に、その種の情報をチェック
   - ![](../images/i_icon.png)をタップ
 :::
@@ -457,9 +457,7 @@ subtitle:  社会と科学技術の界面 第13~14回
     allowfullscreen>
 </iframe>
 
-## 千葉大学西キャンパスの現状
-
-<https://www.inaturalist.org/observations?place_id=209168&subview=map>
+## [千葉大学西キャンパスの現状](https://www.inaturalist.org/observations?place_id=209168&subview=map)
 
 ### 現在
 
