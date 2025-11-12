@@ -410,7 +410,7 @@
     "href": "day2/index.html#inaturalistアプリの使い方の流れ",
     "title": "生物多様性調査実習",
     "section": "iNaturalistアプリの使い方の流れ",
-    "text": "iNaturalistアプリの使い方の流れ\n\n外で気になる生物を見つける\niNaturalistを開いて、「観察」→「カメラ」をタップ\n写真を撮る\n候補の種を選ぶ\nデータをアップロードする"
+    "text": "iNaturalistアプリの使い方の流れ\n\n外で気になる生物を見つける\niNaturalistを開いて、「+」→「カメラ」をタップ\n写真を撮る\n候補の種を選ぶ\nデータをアップロードする"
   },
   {
     "objectID": "day2/index.html#グループ分け",
@@ -424,14 +424,14 @@
     "href": "day2/index.html#グループ分け-1",
     "title": "生物多様性調査実習",
     "section": "グループ分け",
-    "text": "グループ分け\n\n紅組、白組それぞれの中に3人ずつ班を作る\n班と一緒に調査を行う\n\nそれぞれの組の中で班の仕分けを決めてください\n同じ生物を２回記録することを防ぐため\n探す効率を上げるため"
+    "text": "グループ分け\n\n紅組、白組それぞれの中に2-3人ずつ班を作る\n班と一緒に調査を行う\n\nそれぞれの組の中で班の仕分けを決めてください\n同じ生物を２回記録することを防ぐため\n探す効率を上げるため"
   },
   {
     "objectID": "day2/index.html#千葉大学西キャンパスの現状",
     "href": "day2/index.html#千葉大学西キャンパスの現状",
     "title": "生物多様性調査実習",
     "section": "千葉大学西キャンパスの現状",
-    "text": "千葉大学西キャンパスの現状\nhttps://www.inaturalist.org/observations?place_id=209168&subview=map\n\n146 観察\n92 種\n32人 観察者"
+    "text": "千葉大学西キャンパスの現状\nhttps://www.inaturalist.org/observations?place_id=209168&subview=map\n現在\n\n1,112 観察\n339 種\n82人 観察者\n\n2024年（授業を始めた前）\n\n146 観察\n92 種\n32人 観察者"
   },
   {
     "objectID": "day2/index.html#調査の対象",
@@ -466,7 +466,7 @@
     "href": "day2/index.html#調査結果の解析",
     "title": "生物多様性調査実習",
     "section": "調査結果の解析",
-    "text": "調査結果の解析\n\niNaturalistウェブサイトを使いながら、授業中に質問に答えてください\n\nhttps://forms.gle/HDPz8pZ5Ws3uSFyz7"
+    "text": "調査結果の解析\n\niNaturalistウェブサイトを使いながら、授業中に質問に答えてください\n\nhttps://forms.gle/KdUv7zfWwtBGgMdn7"
   },
   {
     "objectID": "index.html",
