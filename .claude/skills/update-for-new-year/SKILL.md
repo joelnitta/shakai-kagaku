@@ -59,3 +59,11 @@ For a new year:
 - Validate the XML: `python3 -I -c "import xml.dom.minidom as m; m.parse('quiz/moodle-questions.xml')"`.
 - Render with `quarto render` (output goes to `_site`, which is gitignored). Open the result and check the date slides.
 - Don't commit unless the user asks. Their usual commit style is a short message like "Update content to <YEAR>".
+
+## 6. Publish the website
+
+The site is published with `quarto publish gh-pages`, which renders the project and pushes the output to the `gh-pages` branch. Pushing `main` alone does **not** update the live site; `_site` is gitignored, so the published pages only change through `quarto publish`.
+
+- Publishing is public and outward-facing: confirm with the user before running it.
+- Commit and push `main` as well if the user wants the source saved, but treat that as separate from publishing.
+- After publishing, check the live site for the new dates.
