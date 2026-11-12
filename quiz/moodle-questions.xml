@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: category -->
+<question type="category">
+  <category><text>$course$/top/生物多様性データ解析</text></category>
+</question>
+
+<!-- Q1-4, Q10: numerical. Placeholder answer 0 (0%). After the deadline, set the real value (100%) + tolerance in the question bank, then regrade. -->
+<question type="numerical">
+  <name><text>Q01 西キャンパス全体の種数（全期間）</text></name>
+  <questiontext format="html"><text><![CDATA[<p>千葉大学西キャンパス全体の種数は？（<strong>全期間</strong>）</p><p>「Place」を Chiba University Nishi-Chiba Campus, CH, JP にすると千葉大学西キャンパスだけに絞ることができる。</p><p><em>（半角数字で入力）</em></p>]]></text></questiontext>
+  <defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden>
+  <unitgradingtype>0</unitgradingtype><unitpenalty>0.1</unitpenalty><showunits>3</showunits><unitsleft>0</unitsleft>
+  <answer fraction="0" format="plain_text"><text>0</text><tolerance>0</tolerance><feedback format="html"><text></text></feedback></answer>
+</question>
+
+<!-- Q2 -->
+<question type="numerical">
+  <name><text>Q02 今回の調査の種数</text></name>
+  <questiontext format="html"><text><![CDATA[<p><strong>今回の調査</strong>によって観察できた種数は？</p><p>「Date Observed」→「Exact Date」→ 今日の日付（調査日）を入力すると今日の調査に絞ることができる。</p><p><em>（半角数字で入力）</em></p>]]></text></questiontext>
+  <defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden>
+  <unitgradingtype>0</unitgradingtype><unitpenalty>0.1</unitpenalty><showunits>3</showunits><unitsleft>0</unitsleft>
+  <answer fraction="0" format="plain_text"><text>0</text><tolerance>0</tolerance><feedback format="html"><text></text></feedback></answer>
+</question>
+
+<!-- Q3 -->
+<question type="numerical">
+  <name><text>Q03 今回の調査の西側の種数</text></name>
+  <questiontext format="html"><text><![CDATA[<p>今回の調査によって観察できた<strong>西側</strong>の種数は？</p><p>「Place」を Chiba University Nishi-Chiba Campus West Half, CH, JP にすると西の方だけに絞ることができる。</p><p><em>（半角数字で入力）</em></p>]]></text></questiontext>
+  <defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden>
+  <unitgradingtype>0</unitgradingtype><unitpenalty>0.1</unitpenalty><showunits>3</showunits><unitsleft>0</unitsleft>
+  <answer fraction="0" format="plain_text"><text>0</text><tolerance>0</tolerance><feedback format="html"><text></text></feedback></answer>
+</question>
+
+<!-- Q4 -->
+<question type="numerical">
+  <name><text>Q04 今回の調査の東側の種数</text></name>
+  <questiontext format="html"><text><![CDATA[<p>今回の調査によって観察できた<strong>東側</strong>の種数は？</p><p>「Place」を Chiba University Nishi-Chiba Campus East Half, CH, JP にすると東の方だけに絞ることができる。</p><p><em>（半角数字で入力）</em></p>]]></text></questiontext>
+  <defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden>
+  <unitgradingtype>0</unitgradingtype><unitpenalty>0.1</unitpenalty><showunits>3</showunits><unitsleft>0</unitsleft>
+  <answer fraction="0" format="plain_text"><text>0</text><tolerance>0</tolerance><feedback format="html"><text></text></feedback></answer>
+</question>
+
+<!-- Q5 -->
+<question type="essay">
+  <name><text>Q05 最も記録数の多い種（全期間）</text></name>
+  <questiontext format="html"><text><![CDATA[<p>合わせて最も記録数の多い種は？（<strong>全期間</strong>）</p>]]></text></questiontext>
+  <defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden>
+  <responseformat>plain</responseformat><responserequired>1</responserequired>
+  <responsefieldlines>1</responsefieldlines><attachments>0</attachments>
+  <graderinfo format="html"><text></text></graderinfo>
+  <responsetemplate format="html"><text></text></responsetemplate>
+</question>
+
+<!-- Q6: multiple choice. NO option is marked correct (all 0%).
+     After the deadline, edit the question and set the correct option to 100%, then regrade. -->
+<question type="multichoice">
+  <name><text>Q06 種が最も多いカテゴリー</text></name>
+  <questiontext format="html"><text><![CDATA[<p>種が最も多く観察されたカテゴリーはどれでしょうか？</p>]]></text></questiontext>
+  <defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden>
+  <single>true</single><shuffleanswers>false</shuffleanswers>
+  <answernumbering>none</answernumbering>
+  <showstandardinstruction>0</showstandardinstruction>
+  <correctfeedback format="html"><text></text></correctfeedback>
+  <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+  <incorrectfeedback format="html"><text></text></incorrectfeedback>
+  <answer fraction="0" format="html"><text>Birds (鳥類)</text></answer>
+  <answer fraction="0" format="html"><text>Amphibians (両生類)</text></answer>
+  <answer fraction="0" format="html"><text>Reptiles (爬虫類)</text></answer>
+  <answer fraction="0" format="html"><text>Mammals (哺乳類)</text></answer>
+  <answer fraction="0" format="html"><text>Fishes (魚類)</text></answer>
+  <answer fraction="0" format="html"><text>Molluscs (軟体動物)</text></answer>
+  <answer fraction="0" format="html"><text>Arachnids (蛛形類)</text></answer>
+  <answer fraction="0" format="html"><text>Insects (昆虫類)</text></answer>
+  <answer fraction="0" format="html"><text>Plants (植物)</text></answer>
+  <answer fraction="0" format="html"><text>Fungi (菌類)</text></answer>
+  <answer fraction="0" format="html"><text>Protozoans (原生動物)</text></answer>
+</question>
+
+<!-- Q7 -->
+<question type="essay">
+  <name><text>Q07 そのカテゴリーが多かった理由</text></name>
+  <questiontext format="html"><text><![CDATA[<p>なぜそのカテゴリーが多かったと思いますか？</p>]]></text></questiontext>
+  <defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden>
+  <responseformat>editor</responseformat><responserequired>1</responserequired>
+  <responsefieldlines>5</responsefieldlines><attachments>0</attachments>
+  <graderinfo format="html"><text></text></graderinfo>
+  <responsetemplate format="html"><text></text></responsetemplate>
+</question>
+
+<!-- Q8 -->
+<question type="essay">
+  <name><text>Q08 最もきれいに撮れた写真のURL</text></name>
+  <questiontext format="html"><text><![CDATA[<p>今回の調査で最もきれいに撮れた写真はどれだと思いますか？</p><p>写真のURLを貼ってください。URLの調べ方については授業のスライドを参照してください。</p>]]></text></questiontext>
+  <defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden>
+  <responseformat>plain</responseformat><responserequired>1</responserequired>
+  <responsefieldlines>2</responsefieldlines><attachments>0</attachments>
+  <graderinfo format="html"><text></text></graderinfo>
+  <responsetemplate format="html"><text></text></responsetemplate>
+</question>
+
+<!-- Q9 -->
+<question type="essay">
+  <name><text>Q09 最も多い外来種</text></name>
+  <questiontext format="html"><text><![CDATA[<p>最も多い外来種はどれでしょうか？</p><p>「Show」→「Introduced」を入れると、外来種だけに絞ることができる。</p>]]></text></questiontext>
+  <defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden>
+  <responseformat>plain</responseformat><responserequired>1</responserequired>
+  <responsefieldlines>1</responsefieldlines><attachments>0</attachments>
+  <graderinfo format="html"><text></text></graderinfo>
+  <responsetemplate format="html"><text></text></responsetemplate>
+</question>
+
+<!-- Q10 -->
+<question type="numerical">
+  <name><text>Q10 その外来種の観察回数</text></name>
+  <questiontext format="html"><text><![CDATA[<p>その外来種は何回観察されましたか？</p><p><em>（半角数字で入力）</em></p>]]></text></questiontext>
+  <defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden>
+  <unitgradingtype>0</unitgradingtype><unitpenalty>0.1</unitpenalty><showunits>3</showunits><unitsleft>0</unitsleft>
+  <answer fraction="0" format="plain_text"><text>0</text><tolerance>0</tolerance><feedback format="html"><text></text></feedback></answer>
+</question>
+
+<!-- Q11 -->
+<question type="essay">
+  <name><text>Q11 観察記録が最も多い場所</text></name>
+  <questiontext format="html"><text><![CDATA[<p>観察記録が最も多い場所は西千葉キャンパスのどのあたりでしょうか？</p>]]></text></questiontext>
+  <defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden>
+  <responseformat>plain</responseformat><responserequired>1</responserequired>
+  <responsefieldlines>2</responsefieldlines><attachments>0</attachments>
+  <graderinfo format="html"><text></text></graderinfo>
+  <responsetemplate format="html"><text></text></responsetemplate>
+</question>
+
+<!-- Q12 -->
+<question type="essay">
+  <name><text>Q12 なぜそうなっていると思うか</text></name>
+  <questiontext format="html"><text><![CDATA[<p>なぜそうなっていると思いますか？</p>]]></text></questiontext>
+  <defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden>
+  <responseformat>editor</responseformat><responserequired>1</responserequired>
+  <responsefieldlines>5</responsefieldlines><attachments>0</attachments>
+  <graderinfo format="html"><text></text></graderinfo>
+  <responsetemplate format="html"><text></text></responsetemplate>
+</question>
+
+</quiz>
