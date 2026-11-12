@@ -17,10 +17,10 @@ subtitle:  社会と科学技術の界面 第11~12回
 
 ::: {.column width="50%"}
 - 研究テーマ1: **シダ**の生態と進化
-  - [Biodiversity and Japan](https://syllabus.gs.chiba-u.jp/2024/401001000000000/G15N945001/en_US)
+  - [Biodiversity and Japan](https://syllabus.gs.chiba-u.jp/2026/401001000000000/G15N945001/en_US)
 
 - 研究テーマ2: **データサイエンス**のためのソフトウェア開発
-  - [Reproducible Scientific Analysis](https://syllabus.gs.chiba-u.jp/2024/101101101076000/Z011531301/en_US)
+  - [Reproducible Scientific Analysis](https://syllabus.gs.chiba-u.jp/2026/101101101076000/Z011531301/en_US)
 
 - <https://www.joelnitta.com>
 :::
@@ -50,7 +50,7 @@ subtitle:  社会と科学技術の界面 第11~12回
 
 ::::
 
-## アウトライン（11月7日）
+## アウトライン（11月13日）
 
 - 生物多様性の定義と重要性
 - 生物多様性の分布
@@ -58,7 +58,7 @@ subtitle:  社会と科学技術の界面 第11~12回
 - クイズ
 - iNaturalistのインストール
 
-## アウトライン（11月14日）
+## アウトライン（11月20日）
 
 - iNaturalistの使い方
 - 千葉大学の生物多様性調査
@@ -70,21 +70,21 @@ subtitle:  社会と科学技術の界面 第11~12回
 
 ## クイズについて
 
-- クイズは11月7日の後半にMoodleで実施します（10分）。
+- クイズは11月13日の後半にMoodleで実施します（10分）。
 
 - クイズの際は授業中に取ったメモを使っていいですが、他の資料（ウエブサイトなど）は**使用禁止**です。
 
 ## 野外実習について
 
-- 11月14日は野外実習です。
-  - 雨の場合は補講日（11月22日）を使うので、**空けておいてください**（11月22日が雨の場合は室内で行います）。
+- 11月20日は野外実習です。
+  - 雨の場合は補講日（11月28日）を使うので、**空けておいてください**（11月28日が雨の場合は室内で行います）。
 
 - 大学校内の生物多様性調査を行います。
 
 ## 野外実習について
 
 - iNaturalistというアプリを使います。
-  - 事前にインストールしてください（11月7日の授業の最後に行います）。
+  - 事前にインストールしてください（11月13日の授業の最後に行います）。
   - 使い方は授業中に学習します。
 
 - この課題への参加を評価します。
@@ -104,7 +104,7 @@ subtitle:  社会と科学技術の界面 第11~12回
 :::
 
 ::: {.column width="50%"}
-![](../images/shaka2025_qrcode.png)
+![](../images/nitta9359-qr.png)
 :::
 
 ::::
@@ -135,7 +135,7 @@ subtitle:  社会と科学技術の界面 第11~12回
 :::
 
 ::: {.column width="50%"}
-![](../images/shaka2025_qrcode.png)
+![](../images/nitta9359-qr.png)
 :::
 
 ::::
@@ -322,7 +322,7 @@ https://www.iema.net/articles/climate-change-to-pose-bigger-threat-to-biodiversi
 :::
 
 ::: {.column width="40%"}
-![](../images/shaka2025_qrcode.png)
+![](../images/nitta9359-qr.png)
 :::
 
 ::::
@@ -442,7 +442,7 @@ Vicent et al. _Taxon_ 66, 2017
 :::
 
 ::: {.column width="40%"}
-![](../images/shaka2025_qrcode.png)
+![](../images/nitta9359-qr.png)
 :::
 
 ::::
@@ -507,7 +507,7 @@ Vicent et al. _Taxon_ 66, 2017
 - なぜ**違い**があると思いますか？
 :::
 ::: {.column width="40%"}
-![](../images/shaka2025_qrcode.png)
+![](../images/nitta9359-qr.png)
 :::
 :::
 

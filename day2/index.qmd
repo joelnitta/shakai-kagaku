@@ -593,7 +593,7 @@ subtitle:  社会と科学技術の界面 第13~14回
 
 - 「Place」を`Chiba University Nishi-Chiba Campus East Half, CH, JP`にすると東の方だけに絞る
   - `West Half`にすると西の方だけに絞る
-- 「Date Observed」→「Exact Date」→ `2025-11-14`を入力すると**今日の調査**に絞る
+- 「Date Observed」→「Exact Date」→ `2026-11-20`を入力すると**今日の調査**に絞る
 - 「Show」→「Introduced」を入れると、**外来種**に絞る
 
 ---
