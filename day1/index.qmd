@@ -566,8 +566,6 @@ qr_code("https://play.google.com/store/apps/details?id=org.inaturalist.android")
 
 ## iNaturalist IDの登録
 
-- iNaturalistのインストールが完成したら、MoodleでiNaturalist IDを登録してください：
-
-<https://moodle.gs.chiba-u.jp/moodle/mod/assign/view.php?id=1472213>
-
+- iNaturalistのインストールが完成したら、MoodleでiNaturalist IDを登録してください
+- Moodleの「第11, 12回」のセクションを確認してください
 - 成績評価に使うので**必須です**
