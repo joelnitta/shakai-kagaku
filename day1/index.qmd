@@ -16,7 +16,7 @@ subtitle:  社会と科学技術の界面 第11~12回
 :::: {.columns}
 
 ::: {.column width="50%"}
-- 研究テーマ1: **シダ**の生態と進化
+- 研究テーマ1: **シダ植物**の生態と進化
   - [Biodiversity and Japan](https://syllabus.gs.chiba-u.jp/2026/401001000000000/G15N945001/en_US)
 
 - 研究テーマ2: **データサイエンス**のためのソフトウェア開発
@@ -28,8 +28,6 @@ subtitle:  社会と科学技術の界面 第11~12回
 ::: {.column width="50%"}
 ![](https://github.com/joelnitta/joelnitta-site/blob/master/static/media/headers/research_img2.jpg?raw=true){fig-alt="Joel Nittaがフィールドにいる画像" height="450"}
 :::
-
-::::
 
 ::::
 
@@ -471,11 +469,11 @@ Vicent et al. _Taxon_ 66, 2017
 
 ## 世界の生物多様性ホットスポット35か所
 
-![](https://www.e-education.psu.edu/geog30/sites/www.e-education.psu.edu.geog30/files/Biodiversity_Hotspots_Map.jpg){fig-alt="世界の生物多様性ホットスポットの地図"}
+![](../images/global-hotspots.jpg){fig-alt="世界の生物多様性ホットスポットの地図"}
 
 ## 世界の生物多様性ホットスポット35か所（日本がその一つ！）
 
-![](https://www.e-education.psu.edu/geog30/sites/www.e-education.psu.edu.geog30/files/Biodiversity_Hotspots_Map.jpg){fig-alt="世界の生物多様性ホットスポットの地図"}
+![](../images/global-hotspots.jpg){fig-alt="世界の生物多様性ホットスポットの地図"}
 
 ## 生物多様性の体験
 
@@ -500,7 +498,7 @@ Vicent et al. _Taxon_ 66, 2017
 
 ## クイズ
 
-- クイズの際は授業中に取ったメモを使っていいですが、他の資料（ウエブサイトなど）は**使用禁止**です。
+- クイズの際は授業中に取った**手書きの**メモを使っていいですが、他の資料（ウエブサイトなど）は**使用禁止**です。
 
 # iNaturalist
 
